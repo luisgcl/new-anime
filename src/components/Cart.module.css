@@ -1,0 +1,7 @@
+.cardContainer {
+    border-color: rgb(175, 171, 171);
+    /* border-width: 5px; */
+    border-style: groove;
+    /* background-color: red; */
+    cursor: pointer;
+}
