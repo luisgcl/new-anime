@@ -25,7 +25,7 @@ function Cart({ anime }) {
                 <Modal.Title>
                     <h3>{anime.title}</h3>
                 </Modal.Title>
-                <Modal.Header>
+                <Modal.Header closeButton>
                     <img src={anime.images.jpg.large_image_url} alt={anime.title} />
                 </Modal.Header>
                 <Modal.Body>
